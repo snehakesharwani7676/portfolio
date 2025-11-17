@@ -36,6 +36,11 @@ export default function Gallery() {
     { id: 18, category: 'skin', type: 'image', title: 'Skin Treatment - Brightening', image: '/placeholder.svg?height=400&width=400' },
     { id: 19, category: 'skin', type: 'image', title: 'Skin Treatment - Anti-Aging', image: '/placeholder.svg?height=400&width=400' },
     { id: 20, category: 'skin', type: 'image', title: 'Skin Treatment - Deep Cleanse', image: '/placeholder.svg?height=400&width=400' },
+    
+    { id: 21, category: 'bridal', type: 'image', title: 'Bridal Makeup - Classic Elegance', image: '/bridal-makeup-classic-look.jpg' },
+    { id: 22, category: 'bridal', type: 'image', title: 'Bridal Makeup - Golden Glow', image: '/bridal-makeup-gold-look.jpg' },
+    { id: 23, category: 'bridal', type: 'image', title: 'Bridal Makeup - Rose Tones', image: '/bridal-makeup-rose-pink.jpg' },
+    { id: 24, category: 'bridal', type: 'image', title: 'Bridal Makeup - Modern Bride', image: '/modern-bridal-makeup-artist.jpg' },
   ]
 
   const categories = [
